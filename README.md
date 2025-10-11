@@ -22,8 +22,7 @@ An introduction to creating generalizable models using methods such as train, te
 | Topic | Skills |
 | ------ | ------ |
 | [Slides](./01-slides/README.md) | -  Model Generalizability  |
-| [Train Test Split](./02-train-test-split/) | - Define and apply Train Test Split method in `scikit-learn` (TTS section of notebook)|
-| [Cross-Validation](./03-cross-validation) | - Explore and apply K-Folds Cross Validation method in `scikit-learn` (k-Folds section of notebook)|
+| [Train Test Split and Cross-Validation](./02-train-test-split/) | - Define and apply Train Test Split method in `scikit-learn` (TTS section of notebook)-<br/>- Explore and apply K-Folds Cross Validation method in `scikit-learn` (k-Folds section of notebook) |
 
 
 ## Prerequisites
